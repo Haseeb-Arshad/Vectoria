@@ -1,0 +1,5 @@
+manim
+typer
+rich
+openai
+python-dotenv
